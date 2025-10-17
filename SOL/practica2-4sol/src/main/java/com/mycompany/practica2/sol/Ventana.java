@@ -299,6 +299,7 @@ public class Ventana extends javax.swing.JFrame {
         BotonRedondo.putClientProperty(FlatClientProperties.BUTTON_TYPE, FlatClientProperties.BUTTON_TYPE_ROUND_RECT);
         BotonRedondo.setText("Redondo");
 
+        BotonAyuda.putClientProperty(FlatClientProperties.BUTTON_TYPE, FlatClientProperties.BUTTON_TYPE_HELP);
         BotonAyuda.setText("?");
 
         jPanel4.setBackground(new java.awt.Color(102, 102, 255));
